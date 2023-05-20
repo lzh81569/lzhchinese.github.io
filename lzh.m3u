@@ -67,7 +67,7 @@ http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227538/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV17 高清
 http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221227589/index.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台HD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="港澳台",翡翠台HD
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台HD" tvg-logo="https://upload.112114.xyz/logo/TVBJADE.png" group-title="港澳台",翡翠台HD
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="133" tvg-name="無綫財經·資訊台HD" tvg-logo="https://upload.112114.xyz/logo/TVBcaijingzixun-1.png" group-title="港澳台",無綫財經·資訊台HD
 http://live.cooltv.top/tv/tvb.php?id=2
