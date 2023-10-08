@@ -111,7 +111,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 极清
 http://223.110.245.160/ott.js.chinamobile.com/PLTV/3/224/3221227476/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视 极清
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视极清" tvg-logo="https://upload.112114.xyz/logo/JSBC.png" group-title="卫视",江苏卫视 极清
 http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221228097/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视极清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 极清
 http://223.110.245.154/ott.js.chinamobile.com/PLTV/3/224/3221227491/index.m3u8
